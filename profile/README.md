@@ -4,7 +4,6 @@
 
 - [RPC](https://github.com/the-minimal/rpc)
 - [Validator](https://github.com/the-minimal/validator)
-- [Error](https://github.com/the-minimal/error)
 - [Types](https://github.com/the-minimal/types)
 
 # Philosophy
