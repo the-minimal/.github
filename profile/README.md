@@ -7,6 +7,7 @@
 - [Validator](https://github.com/the-minimal/validator)
 - [Id](https://github.com/the-minimal/id)
 - [Fingerprint](https://github.com/the-minimal/fingerprint)
+- [Error](https://github.com/the-minimal/error)
 - [Types](https://github.com/the-minimal/types)
 
 # Philosophy
