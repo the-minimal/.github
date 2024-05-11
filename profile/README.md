@@ -5,6 +5,8 @@
 - [RPC](https://github.com/the-minimal/rpc)
 - [Protocol](https://github.com/the-minimal/protocol)
 - [Validator](https://github.com/the-minimal/validator)
+- [Id](https://github.com/the-minimal/id)
+- [Fingerprint](https://github.com/the-minimal/fingerprint)
 - [Types](https://github.com/the-minimal/types)
 
 # Philosophy
